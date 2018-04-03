@@ -8,8 +8,14 @@
     "dev": "nuxt"
   },
   "keywords": [
-    "nuxt"
+    "nuxt",
+    "从零开始搭建nuxt",
+    "vue"
   ],
   "author": "alasq",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nuxt": "^1.4.0"
+  },
+  "repository": "https://github.com/alasq/nuxt.git"
 }
