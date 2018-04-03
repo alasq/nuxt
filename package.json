@@ -1,0 +1,14 @@
+{
+  "name": "nuxt",
+  "version": "1.0.0",
+  "description": "从零开始搭建nuxt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nuxt"
+  ],
+  "author": "alasq",
+  "license": "MIT"
+}
